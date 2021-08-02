@@ -1,16 +1,12 @@
-# nimu_pay
+# Payment Dashboard Web App 
 
-A new Flutter project.
+## [Watch it on YouTube](https://youtu.be/AHknKaXxrHI)
 
-## Getting Started
+### Payment Dashboard App
 
-This project is a starting point for a Flutter application.
+A nice clean Online Payment Dashboard App UI.Today I will show you how you can create Online Payment Dashboard App using flutter. We also add animation which works perfectly on mobile and the web.
 
-A few resources to get you started if this is your first Flutter project:
+### Payment Dashboard App UI
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+<img src="https://user-images.githubusercontent.com/65107679/127872224-349b7a57-d6e5-4894-8eb8-efff4a0fa5e3.png" alt="portfolio" width="600">
